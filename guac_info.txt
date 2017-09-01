@@ -1,0 +1,21 @@
+CN=guacadmin,OU=Administrative Accounts,OU=MDS-ATL Exempt User Directory,OU=Corp-Users,DC=mingledorffs,DC=com
+
+
+
+mysql-hostname: localhost
+mysql-port: 330
+mysql-database: guacamole_db
+mysql-username: guacamole_user
+mysql-password: U(aVXu2y
+
+ldap-hostname: 192.168.10.14
+ldap-hostname: 389
+ldap-search-bind-dn: CN=guacadmin,OU=Administrative Accounts,OU=MDS-ATL Exempt User Directory,OU=Corp-Users,DC=mingledorffs,DC=com
+ldap-search-bind-password: gXy~nEP]3-C6%8
+ldap-user-base-dn: OU=Corp-Users,DC=mingledorffs,DC=com
+
+
+
+
+https://sourceforge.net/p/guacamole/discussion/1110834/thread/b66cf159/?limit=25
+https://www.google.com/search?q=config+guacamole+with+Active+Directory&oq=config+guacamole+with+Active+Directory&aqs=chrome..69i57.9047j0j4&sourceid=chrome&ie=UTF-8
