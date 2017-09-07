@@ -10,9 +10,10 @@ mysql-password: U(aVXu2y
 
 ldap-hostname: 192.168.10.14
 ldap-hostname: 389
+ldap-user-base-dn: OU=Corp-Users,DC=mingledorffs,DC=com
 ldap-search-bind-dn: CN=guacadmin,OU=Administrative Accounts,OU=MDS-ATL Exempt User Directory,OU=Corp-Users,DC=mingledorffs,DC=com
 ldap-search-bind-password: gXy~nEP]3-C6%8
-ldap-user-base-dn: OU=Corp-Users,DC=mingledorffs,DC=com
+ldap-username-attribute: sAMAccountName
 
 
 
